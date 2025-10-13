@@ -1,1 +1,0 @@
-![img](Assignments/Gazebo.png)

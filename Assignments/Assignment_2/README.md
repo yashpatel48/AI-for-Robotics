@@ -1,6 +1,5 @@
 Assignment 2 
-date of final upload - 10/15/2025
 
-Delay due to mulitple attempts to get camera_feed.
-CLI confirmation shows that camera is running success. Grey colour image might due to colour of maze.
+Delay due to mulitple attempts to get camera_feed, loss of Gazebo Window and multiple failed attempts to get it running.
+CLI confirmation presented for assignment.
 Report with necessary screenshots in the Assignment2.pdf.

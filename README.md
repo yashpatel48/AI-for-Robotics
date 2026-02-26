@@ -4,11 +4,6 @@
 
 This is a template docker-based dev environment. It currently supports NVIDIA GPUs but with slight modifications it can target for x86 CPUs and Apple silicon chips. 
 
-It currently includes the following tools:
-
-* a `assignments` directory with an empty notebook where you need to populate with your code. The notebook can optionally use the artagents library. 
-* a `project` directory for your project source code. The documentation for the project is stored separately in the `docs` directory. 
-* a `docs` directory that contains the source code of [quarto](https://quarto.org/) markdown (qmd) and `ipynb` notebooks content. You use the docs folder to publish your project work. 
 
 ## How to Launch the Development Container in VS Code
 
